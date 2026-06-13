@@ -43,7 +43,7 @@ A command-line expense tracking application built with Python. Track your spendi
 
 ```bash
 # Clone or navigate to the project
-cd DecodeLabs-Internship_week2
+cd DecodeLabs-Internship_task2
 
 # Run the application
 python3 main.py
